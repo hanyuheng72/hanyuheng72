@@ -4,6 +4,8 @@
 
 专注于 **Java 后端架构** 与 **Next.js 全栈开发**，立志成为一名优秀的软件工程师。
 
+我的 **煦雨 · Personal Blog** [博客](https://www.xuyu.click/)
+
 ---
 
 ### 🛠️ 常用技术栈 (Tech Stack)
