@@ -20,16 +20,8 @@
 
 ---
 
-### 📝 最新博客文章 (Blog Posts)
-
-<!-- BLOG-POST-LIST:START -->
-* 暂无动态
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 📌 个人精选项目 (Pinned Projects)
 
 - 核心个人博客系统 (Full-Stack Blog System with Spring Boot 3 & Next.js 14)
 
-📫 **联系方式**: `hanyuheng72` | 个人博客: `http://localhost:3000`
+📫 **联系方式**: `hanyuheng72@gmail.com` | 个人博客: `http://localhost:3000`
